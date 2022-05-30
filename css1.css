@@ -113,6 +113,8 @@ nav {
     left: 35%;
     transform: translateY(-50%);
     z-index: 1;
+    background:url("./images/mobile.png") center no-repeat;
+    background-size:cover;
 }
 
 .contorls {
